@@ -7,4 +7,4 @@ To use, open template.doc and create new macros. For the main module, paste in t
 
 # Demo
 
-![Alt Text](https://github.com/TheKevinWang/MacroPhishing/raw/master/path/to/WordMacroDemo.gif)
+![Alt Text](https://github.com/TheKevinWang/MacroPhishing/raw/master/WordMacroDemo.gif)
