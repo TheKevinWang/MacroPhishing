@@ -1,5 +1,5 @@
 # MacroPhishing
-Word resources for phishing with macros. Includes "Click Enable Content" bait and decoy document deployment. The bait was created by me, but inspired by cerber ransomware documents. 
+Word resources for phishing with macros. Includes "Click Enable Content" bait and decoy document deployment. The bait was created by me, but inspired by cerber ransomware document samples. 
 
 # Usage
 
